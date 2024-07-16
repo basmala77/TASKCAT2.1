@@ -1,0 +1,7 @@
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\bin\Debug\Join Operations.exe.config
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\bin\Debug\Join Operations.exe
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\bin\Debug\Join Operations.pdb
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\obj\Debug\Join Operations.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\obj\Debug\Join Operations.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\obj\Debug\Join Operations.exe
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Join Operations\Join Operations\obj\Debug\Join Operations.pdb

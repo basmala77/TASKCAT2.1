@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\bin\Debug\net8.0\Chunk.exe
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\bin\Debug\net8.0\Chunk.deps.json
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\bin\Debug\net8.0\Chunk.runtimeconfig.json
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\bin\Debug\net8.0\Chunk.dll
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\bin\Debug\net8.0\Chunk.pdb
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.sourcelink.json
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.dll
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\refint\Chunk.dll
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.pdb
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\Chunk.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Documents\TACAT\Task\Chunk\Chunk\obj\Debug\net8.0\ref\Chunk.dll
